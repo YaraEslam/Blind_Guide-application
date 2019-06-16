@@ -1,0 +1,4 @@
+#Sun Jun 16 22:34:54 AST 2019
+base.0=E\:\\study\\year4\\GP\\11\\1Fritz\\ObjectRecognitionModel\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
