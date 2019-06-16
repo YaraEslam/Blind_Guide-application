@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="topr">130sp</dimen>
+    <dimen name="topdc">320sp</dimen>
+    <dimen name="LR">60sp</dimen>
+</resources>

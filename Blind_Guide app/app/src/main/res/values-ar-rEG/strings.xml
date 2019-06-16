@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">مرشد الكفيف</string>
+    <string name="action_settings" translatable="false">الضبط</string>
+
+    <string name="background" translatable="false">خلفية</string>
+    <string name="person" translatable="false">شخص</string>
+    <string name="bench" translatable="false">مقعد</string>
+    <string name="bird" translatable="false">طائر</string>
+    <string name="cat" translatable="false">قطة</string>
+    <string name="dog" translatable="false">كلب</string>
+    <string name="backpack" translatable="false">حقيبة ظهر</string>
+    <string name="handbag" translatable="false">حقيبة يد</string>
+    <string name="tie" translatable="false">رباط</string>
+    <string name="suitcase" translatable="false">حقيبة</string>
+    <string name="sports_ball" translatable="false">كرة رياضية</string>
+    <string name="kite" translatable="false">طائرة ورقية</string>
+    <string name="baseball_bat" translatable="false">مضرب بيسبول</string>
+    <string name="baseball_glove" translatable="false">قفاز بيسبول</string>
+    <string name="skateboard" translatable="false">لوح تزحلق</string>
+    <string name="surfboard" translatable="false">surfboard</string>
+    <string name="tennis_racket" translatable="false">مضرب تنس</string>
+    <string name="bottle" translatable="false">زجاجة</string>
+    <string name="cup" translatable="false">كأس</string>
+    <string name="fork" translatable="false">شوكة</string>
+    <string name="knife" translatable="false">سكينة</string>
+    <string name="spoon" translatable="false">ملعقة</string>
+    <string name="bowl" translatable="false">وعاء</string>
+    <string name="banana" translatable="false">موزة</string>
+    <string name="apple" translatable="false">تفاحة</string>
+    <string name="sandwich" translatable="false">ساندوتش</string>
+    <string name="orange" translatable="false">برتقالة</string>
+    <string name="broccoli" translatable="false">بروكلي</string>
+    <string name="carrot" translatable="false">جزر</string>
+    <string name="hot_dog" translatable="false">هوت دوج</string>
+    <string name="pizza" translatable="false">بيتزا</string>
+    <string name="donut" translatable="false">دونات</string>
+    <string name="cake" translatable="false">كعكة</string>
+    <string name="chair" translatable="false">كرسي</string>
+    <string name="couch" translatable="false">أريكة</string>
+    <string name="potted_plant" translatable="false">نبات محفوظ بوعاء</string>
+    <string name="bed" translatable="false">سرير</string>
+    <string name="dining_table" translatable="false">سفرة</string>
+    <string name="toilet" translatable="false">مرحاض</string>
+    <string name="tv" translatable="false">تليفزيون</string>
+    <string name="laptop" translatable="false">لاب توب</string>
+    <string name="mouse" translatable="false">فارة</string>
+    <string name="remote" translatable="false">ريموت</string>
+    <string name="keyboard" translatable="false">لوحة مفاتيح</string>
+    <string name="cell_phone" translatable="false">هاتف محمول</string>
+    <string name="microwave" translatable="false">مايكروويف</string>
+    <string name="oven" translatable="false">فرن</string>
+    <string name="toaster" translatable="false">محمصة خبز</string>
+    <string name="sink" translatable="false">حوض</string>
+    <string name="refrigerator" translatable="false">ثلاجة</string>
+    <string name="book" translatable="false">كتاب</string>
+    <string name="clock" translatable="false">ساعة</string>
+    <string name="vase" translatable="false">vase</string>
+    <string name="scissors" translatable="false">مقص</string>
+    <string name="teddy_bear" translatable="false">دبدوب</string>
+    <string name="hair_drier" translatable="false">مجفف الشعر</string>
+    <string name="toothbrush" translatable="false">فرشة أسنان</string>
+
+    <string name="blue" translatable="false">أزرق</string>
+    <string name="white" translatable="false">أبيض</string>
+    <string name="black" translatable="false">أسود</string>
+    <string name="Brown" translatable="false">بني</string>
+    <string name="cyan" translatable="false">أزرق سماوي</string>
+    <string name="gold" translatable="false">ذهبي</string>
+    <string name="green" translatable="false">اخضر</string>
+    <string name="orange2" translatable="false">برتقالي</string>
+    <string name="Violet" translatable="false">بنفسجس</string>
+    <string name="pink" translatable="false">بمبي</string>
+    <string name="Yellow" translatable="false">اصفر</string>
+    <string name="Lemon" translatable="false">ليموني</string>
+    <string name="Purple" translatable="false">أرجواني</string>
+    <string name="Rose" translatable="false">وردي</string>
+    <string name="Nabiti" translatable="false">نبيتي</string>
+    <string name="Gray" translatable="false">رمادي</string>
+    <string name="red" translatable="false">أحمر</string>
+</resources>
